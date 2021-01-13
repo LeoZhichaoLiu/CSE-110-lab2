@@ -38,6 +38,9 @@
     <article class="people">
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
+        <div class="Pic for Liu Bang">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdzXe0LbtBV67AtImdiEssn06M-sc-kP5CA&usqp=CAU">
+        </div>
         <h3>Famous Emperor:</h3>
         <p>Che Liu (Han Wu), Xun Liu(Han Xuan)</p>
         <h3>Great General</h3>
