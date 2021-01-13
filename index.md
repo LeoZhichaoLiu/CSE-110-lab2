@@ -1,3 +1,4 @@
+<!doctype html>
 <html> 
    <head>
       <title>  Welcome to Zhichao Liu's GitHub Page </title>
