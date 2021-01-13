@@ -19,7 +19,7 @@
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
    
-   
+<hr>
 <article class="Han Dyasty">
     <header>
       <h2>Information of Western Han Dyasty</h1>
@@ -35,6 +35,7 @@
          alt="Han pic">
     <p>The map for Han Dyasty</p>
     </div>
+    <hr>
     <article class="people">
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
@@ -42,7 +43,8 @@
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdzXe0LbtBV67AtImdiEssn06M-sc-kP5CA&usqp=CAU">
         </div>
         <h3>Famous Emperor:</h3>
-        <p>Che Liu (Han Wu), Xun Liu(Han Xuan)</p>
+            <ol>Che Liu (Han Wu) </ol> 
+             <ol>Xun Liu(Han Xuan) </ol>
         <h3>Great General</h3>
         <p>Xin Han, Qing Wei, Qubing Huo</p>
     </article>
@@ -50,6 +52,7 @@
         <p><a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a></p>
     </footer>
 </article>
+ 
          
 </main>
 </body>
