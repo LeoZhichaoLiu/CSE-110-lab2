@@ -44,9 +44,11 @@
         </div>
         <h3>Famous Emperor:</h3>
             <ol>Che Liu (Han Wu) </ol> 
-             <ol>Xun Liu(Han Xuan) </ol>
+            <ol>Xun Liu(Han Xuan) </ol>
         <h3>Great General</h3>
-        <p>Xin Han, Qing Wei, Qubing Huo</p>
+            <ul>Xin Han</ul> 
+            <ul>Qing Wei</ul>
+            <ul>Qubing Huo</ul>
     </article>
    <footer>
         <p><a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a></p>
