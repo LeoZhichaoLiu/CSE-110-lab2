@@ -40,7 +40,7 @@
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img src="https://www.lilysunchinatours.com/Uploads/Editor/2020-11-06/5fa4b13363dd9.jpg"
+            <img src="https://lh3.googleusercontent.com/proxy/9MFEkUKvFqH-wfHrUuqMGFTncmQl8VXVdm9UrkSxYwdZkZeMaek-rss5jdsifxHUzkHkWSZjOPOOgLPs2GrA17XVTLwoHJcrzHk2GfKI80A"
                  alt="Liu Bang's pic">
              <figcaption>Liu Bang</figcaption>
         </figure>
