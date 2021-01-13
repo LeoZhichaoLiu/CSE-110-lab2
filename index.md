@@ -7,8 +7,11 @@
   
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<main id="main-content">
+   <h1>Welcome to Zhichao Liu's GitHub Page</h1>
+
+   <p> You can find the _course website_ in [CSE 110 Canvas](https://canvas.ucsd.edu/courses/21783) </p>
+</main>
 
 </body>
 </html>
