@@ -5,6 +5,15 @@
          <!-- <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">  -->
 </head>
 <body>
+         
+<nav class="menu">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
 <main id="main-content">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
    <p> You can find the _course website_ in  <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
