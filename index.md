@@ -1,16 +1,13 @@
-<html> 
-   <head>
-      <title> Welcome to Zhichao Liu's GitHub Page </title>
-   </head>
-      
-   <Body>
-   
-      <link href="https://canvas.ucsd.edu/courses/21783" rel="stylesheet">
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-     <p>This text will be red as defined in the external stylesheet.</p>
-     <p style="color: blue">The <code>style</code> attribute can override it, though.</p>
-     
-   </Body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
+</body>
 </html>
 
