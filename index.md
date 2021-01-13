@@ -1,7 +1,6 @@
-<!doctype html>
 <html> 
    <head>
-      <title>  Welcome to Zhichao Liu's GitHub Page </title>
+      <title>Welcome to Zhichao Liu's GitHub Page</title>
    </head>
       
    <Body>
