@@ -30,6 +30,11 @@
     <aside>
         <p> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </p>
     </aside>
+    <div class="Pic for Han">
+    <img src="https://images.chinahighlights.com/allpicture/2017/04/easternhan.jpg"
+         alt="Han pic">
+    <p>The map for Han Dyasty</p>
+    </div>
     <article class="people">
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
@@ -42,6 +47,7 @@
         <p><a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a></p>
     </footer>
 </article>
+         
 </main>
 </body>
 </html>
