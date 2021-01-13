@@ -15,7 +15,7 @@
 
 <main id="main-content">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
-   <p> You can find the _course website_ in  <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
+   <p> You can find the <span>course website</span> in  <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
    
@@ -25,7 +25,7 @@
       <h2>Information of Western Han Dyasty</h1>
     </header>
     <section class = "main_overview">
-       <p> he Han dynasty (Chinese: 漢朝; pinyin: Hàncháo) was the second imperial dynasty of China (202 BC – 220 AD), established by the rebel leader Liu Bang and ruled by the House of Liu. Preceded by the short-lived Qin dynasty (221–206 BC) and a warring interregnum known as the Chu–Han contention (206–202 BC), it was briefly interrupted by the Xin dynasty (9–23 AD) established by the usurping regent Wang Mang, and was separated into two periods—the Western Han (202 BC–9 AD) and the Eastern Han (25–220 AD), before being succeeded by the Three Kingdoms period (220–280 AD). </p>
+       <p> he Han dynasty (Chinese: 漢朝; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
     </section>
     <aside>
         <p> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </p>
