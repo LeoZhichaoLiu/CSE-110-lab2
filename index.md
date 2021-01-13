@@ -1,6 +1,6 @@
 <html> 
    <head>
-      <title>Welcome to Zhichao Liu's GitHub Page</title>
+      Welcome to Zhichao Liu's GitHub Page
    </head>
       
    <Body>
