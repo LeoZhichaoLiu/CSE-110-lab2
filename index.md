@@ -1,4 +1,4 @@
-## Welcome to Zhichao Liu's GitHub Page
+<html> Welcome to Zhichao Liu's GitHub Page
 
 You can find the _course website_ in [CSE 110 Canvas](https://canvas.ucsd.edu/courses/21783) 
 
@@ -65,4 +65,6 @@ If you have any interest in our project, feel free to send me message through em
 </tr>
 </tbody>
 </table>
+
+</html>
 
