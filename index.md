@@ -28,7 +28,7 @@
        <p> he Han dynasty (Chinese: 漢朝; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
     </section>
     <aside>
-        <p> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </p>
+        <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
     </aside>
     <div class="Pic for Han">
     <img src="https://images.chinahighlights.com/allpicture/2017/04/easternhan.jpg"
@@ -42,7 +42,7 @@
         <figure>
             <img src="https://lh3.googleusercontent.com/proxy/9MFEkUKvFqH-wfHrUuqMGFTncmQl8VXVdm9UrkSxYwdZkZeMaek-rss5jdsifxHUzkHkWSZjOPOOgLPs2GrA17XVTLwoHJcrzHk2GfKI80A"
                  alt="Liu Bang's pic">
-             <figcaption>Liu Bang</figcaption>
+             <figcaption><em>Liu Bang</em></figcaption>
         </figure>
         <h3>Famous Emperor:</h3>
             <ol>Che Liu (Han Wu) </ol> 
