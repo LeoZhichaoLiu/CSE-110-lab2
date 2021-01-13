@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-         <title>User pics</title>
          <!-- <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">  -->
 </head>
 <body>
          
 <nav class="menu">
-  <ul>
-    <li><a href="#">Home</a></li>
+  <ol>
+    <li><a href="/Han Dyasty">Han Dyasty</a></li>
     <li><a href="#">About</a></li>
     <li><a href="#">Contact</a></li>
-  </ul>
+  </ol>
 </nav>
 
 <main id="main-content">
