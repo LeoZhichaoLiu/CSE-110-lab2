@@ -18,6 +18,18 @@
    <p> You can find the <span>course website</span> in  <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
+
+<article class="Introduction">
+    <header>
+      <h2>Introduction to myself</h1>
+    </header>
+    <section class = "personal statement">
+         <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
+         <p> First of all, my favirate language is Java </p>
+         <code> System.out.println ("I love Java!"); </code>  
+    <section>
+         
+<article>
    
 <hr>
 <article class="Han Dyasty">
@@ -57,7 +69,13 @@
     </footer>
 </article>
  
-         
+
+<p> Address: <br>
+    19 Lambert Drive, <br>
+    Princeton, NJ <br>
+    08540 <br>
+    U.S <br>
+</p>
 </main>
 </body>
 </html>
