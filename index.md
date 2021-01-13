@@ -39,9 +39,11 @@
     <article class="people">
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
-        <div class="Pic for Liu Bang">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdzXe0LbtBV67AtImdiEssn06M-sc-kP5CA&usqp=CAU">
-        </div>
+        <figure>
+            <img src="https://www.lilysunchinatours.com/Uploads/Editor/2020-11-06/5fa4b13363dd9.jpg"
+                 alt="Liu Bang's pic">
+             <figcaption>Liu Bang</figcaption>
+        </figure>
         <h3>Famous Emperor:</h3>
             <ol>Che Liu (Han Wu) </ol> 
             <ol>Xun Liu(Han Xuan) </ol>
