@@ -39,7 +39,7 @@
                <option value="Js">Java Script</option>
                <option value="Go">Go</option>
                <option value="Others">Others</option>
-        </select>
+        </select> <br>
         <label for="expert">Rate the percentage you expert it:</label>
         <form oninput="result.value=parseInt(b.value)">
              <input type="range" id="b" name="b" value="50" /> =
@@ -143,22 +143,22 @@
           <fieldset>
                <legend>Choose the ranking Chelsea will be: </legend>
                   <input type="radio" id="1" name="rank">
-                        <label for="1">1st (Champion!)</label><br/>
+                        <label for="1">1st (Champion!)</label><br>
                   <input type="radio" id="2" name="rank">
-                       <label for="2">2nd</label><br/>
+                       <label for="2">2nd</label><br>
                  <input type="radio" id="3" name="rank">
-                       <label for="3">3rd</label><br/>
+                       <label for="3">3rd</label><br>
                  <input type="radio" id="4" name="rank">
-                       <label for="4">4th</label><br/>
+                       <label for="4">4th</label><br>
                  <input type="radio" id=">4" name="rank">
-                       <label for=">4">>4 (Oh No!)</label><br/>
+                       <label for=">4">>4 (Oh No!)</label><br>
          </fieldset>
      </form>  
      <label for="Truth">Tell you the truth:</label><br>
         <textarea id="truth" name="truth"
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
-        </textarea> <br/>
+        </textarea> <br>
      <label for="percentage">Percentage you already read:</label>
               <progress id="degree" max="100" value="70"> 70% </progress>
 </section>
