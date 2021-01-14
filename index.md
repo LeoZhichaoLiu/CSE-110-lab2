@@ -8,9 +8,9 @@
 <nav class="menu">
   <ol>
     <li><a href="#">Home</a></li>
-    <li><a href="#Han Dynasty">Han Dyasty</a></li>
-    <li><a href="#Chelsea FC">Chelsea FC</a></li>
-    <li><a href="#Animation">Animation</a></li>
+    <li><a href="#Information of Western Han Dyasty">Han Dyasty</a></li>
+    <li><a href="#Introduction to Chelsea FC">Chelsea FC</a></li>
+    <li><a href="#Japanese Animation">Animation</a></li>
   </ol>
 </nav>
 
@@ -216,11 +216,9 @@
            Click this button if you like my page!
     </button>
     <svg viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" stroke="red" fill="grey">
-         <circle cx="50" cy="50" r="40" />
-         <circle cx="150" cy="50" r="4" />
         <svg viewBox="0 0 10 10" x="200" width="100">
              <circle cx="5" cy="5" r="4" />
-         </svg>
+        </svg>
     </svg>
 </article>
 
