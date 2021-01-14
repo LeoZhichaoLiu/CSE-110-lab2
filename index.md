@@ -8,9 +8,9 @@
 <nav class="menu">
   <ol>
     <li><a href="#">Home</a></li>
-    <li><a href="#Information of Western Han Dyasty">Han Dyasty</a></li>
-    <li><a href="#Introduction to Chelsea FC">Chelsea FC</a></li>
-    <li><a href="#Japanese Animation">Animation</a></li>
+    <li><a href="#Information-of-Western-Han-Dynasty">Han Dyasty</a></li>
+    <li><a href="#Introduction-to-Chelsea-FC">Chelsea FC</a></li>
+    <li><a href="#Japanese-Animation">Animation</a></li>
   </ol>
 </nav>
 
@@ -55,7 +55,7 @@
 <hr>
 <article class="Han Dynasty">
     <header>
-      <h2>Information of Western Han Dyasty</h2>
+      <h2>Information of Western Han Dynasty</h2>
     </header>
     <section class = "main_overview">
              <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</strong> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
@@ -112,7 +112,7 @@
 
 <article class="Chelsea FC">
        <header>
-            <h2>Introduction to Chelsea FC </h2>
+            <h2>Introduction to Chelsea FC</h2>
        </header>
          <p> <strong>Chelsea Football Club </strong> are an English professional football club based in Fulham, London. Founded in <em>1905</em>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <strong>six league titles</strong> and <strong>six European trophies</strong>. Their home ground is Stamford Bridge </p>       
        <div class = "pic for Chelsea">
