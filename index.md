@@ -16,10 +16,9 @@
 
 <main id="main-content">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
-   <p> You can find the <span>course website</span> in </p> <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>
+   <p> You can find the <span>course website</span> in <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
-
 <article class="Introduction">
     <header>
       <h2>Introduction to myself</h2>
@@ -77,8 +76,8 @@
             <ul>Qubing Huo</ul>
     </section>
    <footer>
-        <p><a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a></p>
-    </footer>
+       <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a>
+   </footer>
 </article>
  
  
@@ -90,7 +89,7 @@
        </header>
        <p> <b>Chelsea Football</b> Club are an English professional football club based in Fulham, London. Founded in <i>1905</i>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <b>six league titles</b> and <b>six European trophies</b>. Their home ground is Stamford Bridge </p>       
        <div class = "pic for Chelsea">
-           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
+           <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
        </div>   
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
