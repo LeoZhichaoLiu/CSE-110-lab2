@@ -105,9 +105,13 @@
                  Your browser does not support the <code>audio</code> element.
             </audio>
        </figure>
-        <canvas width="300" height="300">
-            That is the BGM from Attack on Titan!
+        <canvas width="300" height="100">
+                 <p> That is the BGM from Attack on Titan! </p>
         </canvas>
+        <picture>
+             <source srcset="https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg" media="(min-width: 600px)">
+        </picture>
+
 
 </article>
 
