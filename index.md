@@ -177,7 +177,10 @@
         <canvas width="300" height="100">
                 Canvas for White.
         </canvas>
-        <p> That is the BGM from Attack on Titan! </p>
+        <details>
+            <summary>More</summary>
+            That is the BGM from Attack on Titan!
+        </details>
          <p> Now the question is: Do you like <strong> Animation </strong>? <br>
              If the answer is <strong> YES </strong>, tell me your favirate animation! </p>
         <form action="" method="get" class="enter_animation">
@@ -212,7 +215,10 @@
       body1 {                         body2 {                                  body3 {
           color: red;                    font-size: .7rem;                         margin: 0;
       }                               }                                        }
-    </pre>                           
+    </pre>    
+    <button class="support" type="button">
+           Click this button if you like my page!
+    </button>
 </article>
 
 <hr>
@@ -232,7 +238,7 @@
             <td>Jan 14</td>
             <td>2021</td>
       </tr> </tbody>
-   </table>
+</table>
 
 </main>
 </body>
