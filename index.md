@@ -40,6 +40,10 @@
                <option value="Go">Go</option>
                <option value="Others">Others</option>
         </select>
+        <form oninput="expert">
+             <input type="range" id="b" name="b" value="50" /> =
+                <output name="result" for="b">60</output>
+        </form>
     </section>
     <section class = "interests">
          <p> Then, I will list my interests as ordered list: </p>
@@ -155,6 +159,8 @@
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
         </textarea>
+     <label for="percentage">Percentage you already read:</label>
+              <progress id="expert degree" max="100" value="70"> 70% </progress>
 </section>
 
 <hr>
