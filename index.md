@@ -98,14 +98,17 @@
          </header>
         <p> My favirate Animations are <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a> and <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a> </p>
         <figure>
-            <figcaption>Listen to the T-Rex:</figcaption>
+            <figcaption>Here is my favirate music in the animation:</figcaption>
             <audio
                controls
                  src="./YouSeeBIGGIRL.mp3">
                  Your browser does not support the <code>audio</code> element.
             </audio>
        </figure>
-         
+        <canvas width="300" height="300">
+            That is the BGM from Attack on Titan!
+        </canvas>
+
 </article>
 
 
