@@ -31,11 +31,13 @@
     </section>
     <section class = "interests">
          <p> Then, I will list my interests as ordered list: </p>
+             <ol>
                   <li> Chinese Ancient History  </li>
                   <li> Soccer  </li>
                   <li> Drawing </li>
                   <li> Writing  </li>
                   <li> Japanese Animation </li>
+             </ol>
     </section>
          
 <article>
