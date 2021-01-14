@@ -48,7 +48,7 @@
       <h2>Information of Western Han Dyasty</h1>
     </header>
     <section class = "main_overview">
-       <p> he Han dynasty (Chinese: 漢朝; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
+             <p> he Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
     </section>
     <aside>
         <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
@@ -87,7 +87,7 @@
        <header>
             <h2>Introduction to Chelsea FC </h2>
        </header>
-       <p> Chelsea Football Club are an English professional football club based in Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is Stamford Bridge </p>
+         <p> <b>Chelsea Football</b> Club are an English professional football club based in Fulham, London. Founded in <i>1905</i>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <b>six league titles</b> and <b>six European trophies</b>. Their home ground is Stamford Bridge </p>
        <div class = "pic for Chelsea">
            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
