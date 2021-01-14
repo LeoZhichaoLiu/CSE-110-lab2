@@ -62,7 +62,7 @@
         <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img width="200" height="300" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
+            <img width="230" height="300" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
@@ -91,7 +91,7 @@
        </div>   
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <label for="Choose Champion">Choose the Team you think is Champion in Premier League: </label>
-            <select id="Choose Champion">
+           <select id="Choose Champion">
                 <optgroup>
                    <option>Chelsea</option>
                    <option>Manchester City</option>
@@ -103,6 +103,21 @@
                    <option>Others</option>
                </optgroup>
           </select>
+      <form>
+          <fieldset>
+               <legend>Choose the ranking Chelsea will be: </legend>
+                  <input type="radio" id="1" name="rank">
+                        <label for="kraken">1st (Champion!)</label><br/>
+                  <input type="radio" id="2" name="rank">
+                       <label for="sasquatch">2nd</label><br/>
+                 <input type="radio" id="3" name="rank">
+                       <label for="mothman">3rd</label>
+                 <input type="radio" id="4" name="rank">
+                       <label for="mothman">4th</label>
+                 <input type="radio" id=">4" name="rank">
+                       <label for="mothman">>4 (Oh No!)</label>
+         </fieldset>
+     </form>  
 </article>
 
 
@@ -143,6 +158,7 @@
                     <input type="submit" value="Subscribe!">
                </div>
        </form>
+  
        
 
 </article>
