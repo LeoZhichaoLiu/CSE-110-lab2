@@ -69,7 +69,24 @@
     </footer>
 </article>
  
+ 
+<hr>
 
+<article class="contact">
+     <header>
+        <h2>Contact to me</h1>
+    </header>
+    <p> If you have any interest in my project, feel free to send me message through email: <b> z5liu@ucsd.edu </b> </p>
+    <p> In the future, I will use <i>CSS</i> and <i>JavaScript</i> to make the page more beautiful and active! </p>
+    <p> For example, I may use the following code to change color of text! </p>
+    <code> <pre> 
+      body {
+          color: red;
+      } 
+    </pre> </code>
+</article>
+
+<hr>
 <p> Address: <br>
     19 Lambert Drive, <br>
     Princeton, NJ <br>
