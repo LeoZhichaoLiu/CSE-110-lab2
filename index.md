@@ -17,7 +17,7 @@
   </ol>
 </nav>
 
-<main id="main-content">
+<main role="main">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
@@ -27,12 +27,13 @@
       <h2>Introduction to myself</h2>
     </header>
     <section class = "personal statement">
+         <h4> Myself </h4>
          <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
          <p> First of all, my favirate language is Java </p>
          <code> System.out.println ("I love Java!"); </code>  
          <p></p>
-         <label for="Languae-select">Choose the language you like the most:</label>   
-         <select name="Language-select" id="Language-select">
+         <label for="languae">Choose the language you like the most:</label>   
+         <select name="language" id="language">
                <option value="">--Please choose an option--</option>
                <option value="Java">Java</option>
                <option value="C++/C">C/C++</option>
@@ -48,6 +49,7 @@
         </form>
     </section>
     <section class = "interests">
+         <h4> Interests </h4>
          <p> Then, I will list my interests as ordered list: </p>
              <ol>
                   <li> Chinese Ancient History  </li>
@@ -64,9 +66,7 @@
     <header>
       <h2>Information of Western Han Dynasty</h2>
     </header>
-    <section class = "main_overview">
-             <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</strong> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
-    </section>
+          <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</strong> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
     <aside>
         <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
     </aside>
@@ -134,7 +134,7 @@
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <label for="Choose-Champion">Choose the Team you think is Champion in Premier League: </label>
            <select name="Choose-Champion" id="Choose-Champion">
-                <optgroup>
+                <optgroup label=""Teams>
                    <option>Chelsea</option>
                    <option>Manchester City</option>
                    <option>Manchester United</option>
@@ -166,7 +166,7 @@
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
         </textarea> <br>
      <label for="percentage">Percentage you already read:</label>
-              <progress id="precentage" max="100" value="70"> 70% </progress>
+              <progress name="percentage" id="precentage" max="100" value="70"> 70% </progress>
 </section>
 
 <hr>
