@@ -74,9 +74,7 @@
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
     </section>
-   <footer>
         <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
-   </footer>
 </article>
  
  
@@ -92,6 +90,22 @@
            <p>The symbol of Chelsea</p>
        </div>   
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</article>
+
+<article class="Animation">
+         <header>
+                  <h2>Japanese Animation</h2>
+         </header>
+        <p> My favirate Animations are <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a> and <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a> </p>
+        <figure>
+            <figcaption>Listen to the T-Rex:</figcaption>
+            <audio
+               controls
+                 src="./YouSeeBIGGIRL.mp3">
+                 Your browser does not support the <code>audio</code> element.
+            </audio>
+       </figure>
+         
 </article>
 
 
