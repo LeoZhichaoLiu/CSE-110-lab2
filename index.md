@@ -99,7 +99,7 @@
         <p> My favirate Animations are <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a> and <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a> </p>
          <picture>
              <source srcset="https://hb.imgix.net/efc2778399ad3916e3d0ecdd52d2baf506fe41ae.jpg?auto=compress,format&fit=crop&h=353&w=616&s=725ab9c50a405a056f72d00e76ac04d4" media="(min-width: 600px)">
-             <img src="https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg" alt="" />
+             <img width="600" height="400" src="https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg" alt="" />
         </picture>
         <figure>
             <figcaption>Here is my favirate music in the animation:</figcaption>
@@ -113,6 +113,20 @@
                 Canvas for White.
         </canvas>
         <p> That is the BGM from Attack on Titan! </p>
+        <p> Now the question is: Do you like Animation? If the answer yes, would you mind to tell me your favirate animation?! </p>
+        <form action="" method="get" class="enter_animation">
+               <div class="enter_animation">
+                   <label for="Yes/No">Yes or No: </label>
+                   <input type="text" name="YN" id="YN" required>
+               </div>
+               <div class="enter_animation">
+                    <label for="Animation">If yes, enter your favirate animation: </label>
+                    <input type="text" name="name" id="name" required>
+               </div>
+               <div class="enter_animation">
+                    <input type="submit" value="Subscribe!">
+               </div>
+       </form>
 
 </article>
 
