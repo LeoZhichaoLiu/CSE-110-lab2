@@ -72,7 +72,7 @@
         <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img width="230" height="300" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
+            <img width="200" height="250" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
@@ -106,7 +106,6 @@
     </section>   
    <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
 </article>
- 
  
 <hr>
 
@@ -155,7 +154,7 @@
         </textarea>
 </article>
 
-
+<hr>
 
 <article class="Animation">
          <header>
@@ -196,11 +195,7 @@
                     <input type="submit" value="Subscribe!">
                </div>
        </form>
-  
-       
-
 </article>
-
 
 <hr>
 
@@ -239,6 +234,12 @@
             <td>2021</td>
       </tr> </tbody>
 </table>
+<template id="productrow">
+  <tr>
+    <td class="record"></td>
+    <td></td>
+  </tr>
+</template>
 
 </main>
 </body>
