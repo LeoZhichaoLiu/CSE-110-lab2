@@ -18,7 +18,7 @@
 </nav>
 
 <main role="main">
-   <h1>Welcome to Zhichao Liu's GitHub Page</h1>
+   <h1>Welcome to Zhichao Liu's Page</h1>
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
   
@@ -32,7 +32,7 @@
          <p> First of all, my favirate language is Java </p>
          <code> System.out.println ("I love Java!"); </code>  
          <p></p>
-         <label for="languae">Choose the language you like the most:</label>   
+         <label for="language">Choose the language you like the most:</label>   
          <select name="language" id="language">
                <option value="">--Please choose an option--</option>
                <option value="Java">Java</option>
@@ -166,7 +166,7 @@
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
         </textarea> <br>
      <label for="percentage">Percentage you already read:</label>
-              <progress name="percentage" id="precentage" max="100" value="70"> 70% </progress>
+              <progress id="percentage" max="100" value="70"> 70% </progress>
 </section>
 
 <hr>
