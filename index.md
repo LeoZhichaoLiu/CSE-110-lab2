@@ -98,8 +98,9 @@
             <caption>Comparsion to these three talented generals</caption>
            <colgroup>
               <col>
-              <col span="2" class="batman">
-              <col span="2" class="flash">
+              <col span="1" class="Xian Han">
+              <col span="1" class="Qing Wei">
+              <col span="1" class="Qubing Huo">
            </colgroup>
             <tr>
                <td> </td>
@@ -126,12 +127,12 @@
        </header>
          <p> <strong>Chelsea Football Club </strong> are an English professional football club based in Fulham, London. Founded in <em>1905</em>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <strong>six league titles</strong> and <strong>six European trophies</strong>. Their home ground is Stamford Bridge </p>       
        <div class = "pic for Chelsea">
-           <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
+           <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png" alt="">
            <p>The symbol of Chelsea</p>
        </div>   
-       <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       <label for="Choose Champion">Choose the Team you think is Champion in Premier League: </label>
-           <select id="Choose Champion">
+       <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <label for="Choose-Champion">Choose the Team you think is Champion in Premier League: </label>
+           <select id="Choose-Champion">
                 <optgroup>
                    <option>Chelsea</option>
                    <option>Manchester City</option>
@@ -195,7 +196,7 @@
         </details>
          <p> Now the question is: Do you like <strong> Animation </strong>? <br>
              If the answer is <strong> YES </strong>, tell me your favirate animation! </p>
-        <form action="" method="get" class="enter_animation">
+        <form method="get" class="enter_animation">
                <div class="enter_animation">
                    <label for="Yes/No">Yes or No: </label>
                    <input type="text" name="YN" id="YN" required>
@@ -232,12 +233,12 @@
     </svg>
     <label for="Mark-choice">Choose the rate for my page:</label>
          <input list="rate" id="rate" name="rate" />
-         <datalist id="rate">
-             <option value="5">
-             <option value="4">
-             <option value="3">
-             <option value="2">
-             <option value="1">
+         <datalist id="rate_group">
+             <option value="5">5</option>
+             <option value="4">4</option>
+             <option value="3">3</option>
+             <option value="2">2</option>
+             <option value="1">1</option>
          </datalist>
 </section>
 
