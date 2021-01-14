@@ -4,7 +4,7 @@
          <!-- <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">  -->
 </head>
 <body>
-         
+  
 <nav class="menu">
   <ol>
     <li><a href="/Han Dyasty">Han Dyasty</a></li>
@@ -15,13 +15,13 @@
 
 <main id="main-content">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
-   <p> You can find the <span>course website</span> in  <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
+   <p> You can find the <span>course website</span> in <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
 
 <article class="Introduction">
     <header>
-      <h2>Introduction to myself</h1>
+      <h2>Introduction to myself</h2>
     </header>
     <section class = "personal statement">
          <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
