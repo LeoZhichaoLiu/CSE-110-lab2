@@ -1,4 +1,6 @@
-<html><head>
+<!DOCTYPE html>
+<html>
+<head>
          <title>User Page</title>
 </head>
          
