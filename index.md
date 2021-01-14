@@ -208,7 +208,7 @@
 
 <hr>
 
-<section class="Contact">
+<section class="Contact" id="Contact">
      <header>
         <h2>Contact to me</h2>
     </header>
