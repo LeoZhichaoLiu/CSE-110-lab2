@@ -55,7 +55,7 @@
         <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
     </aside>
     <div class="Pic for Han">
-    <img src="https://images.chinahighlights.com/allpicture/2017/04/easternhan.jpg"
+    <img width="600" height="400" src="https://images.chinahighlights.com/allpicture/2017/04/easternhan.jpg"
          alt="Han pic">
     <p>The map for Han Dyasty</p>
     </div>
@@ -93,7 +93,7 @@
            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
        </div>   
-       <iframe width="826" height="465" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </article>
 
 
@@ -101,7 +101,7 @@
 
 <article class="contact">
      <header>
-        <h2>Contact to me</h1>
+        <h2>Contact to me</h2>
     </header>
     <p> If you have any interest in my project, feel free to send me message through email: <b> z5liu@ucsd.edu </b> </p>
     <p> In the future, I will use <i>CSS</i> and <i>JavaScript</i> to make the page more beautiful and active! </p>
