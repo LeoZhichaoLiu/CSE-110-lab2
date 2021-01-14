@@ -220,6 +220,15 @@
     <svg viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" stroke="red" fill="grey">
        <circle cx="50" cy="50" r="40" />
     </svg>
+    <label for="Mark-choice">Choose the rate for my page:</label>
+         <input list="rate" id="rate" name="rate" />
+         <datalist id="rate">
+             <option value="5">
+             <option value="4">
+             <option value="3">
+             <option value="2">
+             <option value="1">
+         </datalist>
 </section>
 
 <hr>
