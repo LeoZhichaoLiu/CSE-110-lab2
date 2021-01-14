@@ -1,7 +1,5 @@
-<html>
-<head>
+<html><head>
          <title>User Page</title>
-         <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">
 </head>
          
 <body>
