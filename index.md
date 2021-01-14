@@ -31,7 +31,7 @@
          <code> System.out.println ("I love Java!"); </code>  
          <p></p>
          <label for="Languae-select">Choose the language you like the most:</label>   
-         <select id="Language-select">
+         <select name="Language-select" id="Language-select">
                <option value="">--Please choose an option--</option>
                <option value="Java">Java</option>
                <option value="C++/C">C/C++</option>
@@ -40,7 +40,7 @@
                <option value="Go">Go</option>
                <option value="Others">Others</option>
         </select> <br>
-        <label for="expert">Rate the percentage you expert it:</label>
+        <label for="b">Rate the percentage you expert it:</label>
         <form oninput="result.value=parseInt(b.value)">
              <input type="range" id="b" name="b" value="50" /> =
              <output name="result" for="output">50</output>
@@ -132,7 +132,7 @@
        </div>   
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <label for="Choose-Champion">Choose the Team you think is Champion in Premier League: </label>
-           <select id="Choose-Champion">
+           <select name="Choose-Champion" id="Choose-Champion">
                 <optgroup>
                    <option>Chelsea</option>
                    <option>Manchester City</option>
@@ -159,13 +159,13 @@
                        <label for=">4">>4 (Oh No!)</label><br>
          </fieldset>
      </form>  
-     <label for="Truth">Tell you the truth:</label><br>
+     <label for="truth">Tell you the truth:</label><br>
         <textarea id="truth" name="truth"
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
         </textarea> <br>
      <label for="percentage">Percentage you already read:</label>
-              <progress id="degree" max="100" value="70"> 70% </progress>
+              <progress id="precentage" max="100" value="70"> 70% </progress>
 </section>
 
 <hr>
@@ -198,12 +198,12 @@
              If the answer is <strong> YES </strong>, tell me your favirate animation! </p>
         <form method="get" class="enter_animation">
                <div class="enter_animation">
-                   <label for="Yes/No">Yes or No: </label>
+                   <label for="YN">Yes or No: </label>
                    <input type="text" name="YN" id="YN" required>
                </div>
                <div class="enter_animation">
                     <label for="Animation">If yes, enter your favirate animation: </label>
-                    <input type="text" name="name" id="name" required>
+                    <input type="text" name="Animation" id="Animation" required>
                </div>
                <div class="enter_animation">
                     <input type="submit" value="Subscribe!">
@@ -231,9 +231,9 @@
     <svg viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" stroke="red" fill="grey">
        <circle cx="50" cy="50" r="40" />
     </svg>
-    <label for="Mark-choice">Choose the rate for my page:</label>
-         <input list="rate" id="rate" name="rate" />
-         <datalist id="rate_group">
+    <label for="rate">Choose the rate for my page:</label>
+         <input list="rate_page" id="rate" name="rate" />
+         <datalist id="rate_page">
              <option value="5">5</option>
              <option value="4">4</option>
              <option value="3">3</option>
