@@ -40,9 +40,9 @@
                <option value="Go">Go</option>
                <option value="Others">Others</option>
         </select>
-        <form oninput="expert">
+        <form oninput="result.value=parseInt(b.value)">
              <input type="range" id="b" name="b" value="50" /> =
-             <output name="result" for="b ">50</output>
+             <output name="result" for="output">50</output>
         </form>
     </section>
     <section class = "interests">
