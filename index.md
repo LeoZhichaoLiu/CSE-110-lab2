@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-         
+     
 <head>
          <title>User Page</title>
 </head>
@@ -270,4 +268,4 @@
 
 </main>
 </body>
-</html>
+
