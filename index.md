@@ -83,7 +83,7 @@
  
 <hr>
 
-<article class="Chelsea">
+<article class="Chelsea FC">
        <header>
             <h2>Introduction to Chelsea FC </h2>
        </header>
@@ -94,9 +94,7 @@
        </div>   
        <div class = "video for Chelsea">
            <video controls width="250">
-               <source src="/media/cc0-videos/flower.webm"
-                       type="video/webm">
-               <source src="/media/cc0-videos/flower.mp4"
+               <source src="https://www.youtube.com/watch?v=BYdnj9delqw"
                        type="video/mp4">
                Sorry, your browser doesn't support embedded videos.
           </video>
