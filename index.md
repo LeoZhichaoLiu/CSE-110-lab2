@@ -84,12 +84,16 @@
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
         <h3>Famous Emperors</h3>
-            <ol>Che Liu (Han Wu) </ol> 
-            <ol>Xun Liu(Han Xuan) </ol>
+            <ul>
+            <li>Che Liu (Han Wu) </li> 
+            <li>Xun Liu(Han Xuan) </li>
+            </ul>
         <h3>Great Generals</h3>
-            <ul>Xin Han</ul> 
-            <ul>Qing Wei</ul>
-            <ul>Qubing Huo</ul>
+            <ul>
+            <li>Xin Han</li> 
+            <li>Qing Wei</li>
+            <li>Qubing Huo</li>
+            </ul>
         <table>
             <caption>Comparsion to these three talented generals</caption>
            <colgroup>
