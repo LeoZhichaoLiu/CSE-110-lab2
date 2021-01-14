@@ -79,11 +79,11 @@
     <p> If you have any interest in my project, feel free to send me message through email: <b> z5liu@ucsd.edu </b> </p>
     <p> In the future, I will use <i>CSS</i> and <i>JavaScript</i> to make the page more beautiful and active! </p>
     <p> For example, I may use the following code to change color of text! </p>
-    <code> <pre> 
+    <pre> 
       body {
           color: red;
       } 
-    </pre> </code>
+    </pre> 
 </article>
 
 <hr>
