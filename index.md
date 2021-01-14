@@ -78,12 +78,12 @@
     </header>
     <p> If you have any interest in my project, feel free to send me message through email: <b> z5liu@ucsd.edu </b> </p>
     <p> In the future, I will use <i>CSS</i> and <i>JavaScript</i> to make the page more beautiful and active! </p>
-    <p> For example, I may use the following code to change color of text! </p>
+    <p> For example, I may use the following code to change color/size/style of text! </p>
     <pre> 
-      body {
-          color: red;
-      } 
-    </pre> 
+      body1 {                         body2 {                                  body3 {
+          color: red;                    font-size: .7rem;                         margin: 0;
+      }                               }                                        }
+    </pre>                           
 </article>
 
 <hr>
