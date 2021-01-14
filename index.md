@@ -27,6 +27,7 @@
          <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
          <p> First of all, my favirate language is Java </p>
          <code> System.out.println ("I love Java!"); </code>  
+         <p></p>
     </section>
     <section class = "interests">
          <p> Then, I will list my interests as ordered list: </p>
@@ -56,7 +57,7 @@
     <p>The map for Han Dyasty</p>
     </div>
     <hr>
-    <article class="people">
+    <section class="people">
         <h3>Founder:</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
@@ -71,7 +72,7 @@
             <ul>Xin Han</ul> 
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
-    </article>
+    </section>
    <footer>
         <p><a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a></p>
     </footer>
