@@ -27,7 +27,7 @@
          <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
          <p> First of all, my favirate language is Java </p>
          <code> System.out.println ("I love Java!"); </code>  
-    <section>
+    </section>
     <section class = "interests">
          <p> Then, I will list my interests as ordered list: </p>
          <li> Chinese Ancient History  </li>
@@ -35,7 +35,7 @@
          <li> Drawing </li>
          <li> Writing  </li>
          <li> Japanese Animation </li>
-    <section>
+    </section>
          
 <article>
    
