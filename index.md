@@ -1,9 +1,3 @@
-     
-<head>
-         <title>User Page</title>
-</head>
-         
-<body>
 <nav class="menu">
   <ol>
     <li><a href="#">Home</a></li>
@@ -265,7 +259,4 @@
     <td></td>
   </tr>
 </template>
-
-</main>
-</body>
 
