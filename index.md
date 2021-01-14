@@ -88,7 +88,7 @@
 
 <hr>
 
-<h3> Address: <h3>
+<h3> Address: </h3>
 <p> 
     19 Lambert Drive, <br>
     Princeton, NJ <br>
