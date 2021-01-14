@@ -84,7 +84,7 @@
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
     </section>   
-    <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
+   <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
 </article>
  
  
@@ -128,7 +128,7 @@
                        <label for=">4">>4 (Oh No!)</label><br/>
          </fieldset>
      </form>  
-     <label for="Truth">Tell you the truth:</label>
+     <label for="Truth">Tell you the truth:</label><br>
         <textarea id="truth" name="truth"
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
@@ -204,6 +204,15 @@
     08540 <br>
     U.S <br>
 </p>
+<table>
+         <thead> <tr>
+             <th colspan="2">Date</th>
+         </tr> </thead>
+      <tbody> <tr>
+            <td>Jan 14</td>
+            <td>2021</td>
+      </tr> </tbody>
+   </table>
 
 </main>
 </body>
