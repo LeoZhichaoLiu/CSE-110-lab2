@@ -1,5 +1,5 @@
 <header>
-      <h1>Welcome to Zhichao Liu's Page</h1>
+      <h2>Welcome to Zhichao Liu's Page</h2>
 </header>
    
 <nav class="menu">
