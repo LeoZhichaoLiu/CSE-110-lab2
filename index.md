@@ -47,7 +47,7 @@
       <h2>Information of Western Han Dyasty</h2>
     </header>
     <section class = "main_overview">
-             <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
+             <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</strong> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
     </section>
     <aside>
         <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
@@ -59,17 +59,17 @@
     </div>
     <hr>
     <section class="people">
-        <h3>Founder:</h3>
+        <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
             <img src="https://lh3.googleusercontent.com/proxy/9MFEkUKvFqH-wfHrUuqMGFTncmQl8VXVdm9UrkSxYwdZkZeMaek-rss5jdsifxHUzkHkWSZjOPOOgLPs2GrA17XVTLwoHJcrzHk2GfKI80A"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
-        <h3>Famous Emperor:</h3>
+        <h3>Famous Emperors</h3>
             <ol>Che Liu (Han Wu) </ol> 
             <ol>Xun Liu(Han Xuan) </ol>
-        <h3>Great General</h3>
+        <h3>Great Generals</h3>
             <ul>Xin Han</ul> 
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
