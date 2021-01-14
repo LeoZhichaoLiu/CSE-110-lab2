@@ -134,7 +134,7 @@
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <label for="Choose-Champion">Choose the Team you think is Champion in Premier League: </label>
            <select name="Choose-Champion" id="Choose-Champion">
-                <optgroup label=""Teams>
+                <optgroup label="Teams">
                    <option>Chelsea</option>
                    <option>Manchester City</option>
                    <option>Manchester United</option>
