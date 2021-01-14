@@ -8,7 +8,7 @@
     <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#Han-Dynasty">Han Dynasty</a></li>
     <li><a href="#Chelsea-FC">Chelsea FC</a></li>
-    <li><a href="#Animation">Animation</a></li>
+    <li><a href="#J-Animation">Animation</a></li>
     <li><a href="#Contact">Contact</a></li>
   </ol>
 </nav>
@@ -16,7 +16,7 @@
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
   
-<section class="Introduction">
+<section class="Introduction" id="Introduction">
     <header>
       <h2>Introduction to myself</h2>
     </header>
@@ -56,7 +56,7 @@
 </section>
    
 <hr>
-<section class="Han Dynasty">
+<section class="Han-Dynasty" id="Han-Dynasty">
     <header>
       <h2>Information of Western Han Dynasty</h2>
     </header>
@@ -116,7 +116,7 @@
  
 <hr>
 
-<section class="Chelsea FC">
+<section class="Chelsea-FC" id="Chelsea-FC">
        <header>
             <h2>Introduction to Chelsea FC</h2>
        </header>
@@ -165,7 +165,7 @@
 
 <hr>
 
-<section class="Animation">
+<section class="J-Animation" id="J-Animation">
          <header>
                   <h2>Japanese Animation</h2>
          </header>
