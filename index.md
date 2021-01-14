@@ -62,7 +62,7 @@
         <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img width="150" height="300" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
+            <img width="300" height="400" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
@@ -113,7 +113,8 @@
                 Canvas for White.
         </canvas>
         <p> That is the BGM from Attack on Titan! </p>
-        <p> Now the question is: Do you like Animation? If the answer yes, would you mind to tell me your favirate animation?! </p>
+         <p> Now the question is: Do you like <strong> Animation </strong>? <br>
+             If the answer is <strong> YES </strong>, tell me your favirate animation! </p>
         <form action="" method="get" class="enter_animation">
                <div class="enter_animation">
                    <label for="Yes/No">Yes or No: </label>
