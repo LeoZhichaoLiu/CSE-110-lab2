@@ -40,6 +40,7 @@
                <option value="Go">Go</option>
                <option value="Others">Others</option>
         </select>
+        <label for="expert">Rate the percentage you expert it:</label>
         <form oninput="result.value=parseInt(b.value)">
              <input type="range" id="b" name="b" value="50" /> =
              <output name="result" for="output">50</output>
@@ -55,7 +56,6 @@
                   <li> Japanese Animation </li>
              </ol>
     </section>
-         
 </section>
    
 <hr>
