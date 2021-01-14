@@ -27,6 +27,16 @@
          <p> First of all, my favirate language is Java </p>
          <code> System.out.println ("I love Java!"); </code>  
          <p></p>
+         <label for="Languae-select">Choose the language you like the most:</label>   
+         <select id="Language-select">
+               <option value="">--Please choose an option--</option>
+               <option value="Java">Java</option>
+               <option value="C++/C">C/C++</option>
+               <option value="Python">Python</option>
+               <option value="Js">Java Script</option>
+               <option value="Go">Go</option>
+               <option value="Others">Others</option>
+        </select>
     </section>
     <section class = "interests">
          <p> Then, I will list my interests as ordered list: </p>
@@ -73,8 +83,8 @@
             <ul>Xin Han</ul> 
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
-    </section>
-        <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
+    </section>   
+    <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
 </article>
  
  
