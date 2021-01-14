@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
          <title>User Page</title>
-         <!-- <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">  -->
+         <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">
 </head>
 <body>
   
@@ -76,7 +75,7 @@
             <ul>Qubing Huo</ul>
     </section>
    <footer>
-       <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference<a>
+       <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a>
    </footer>
 </article>
  
