@@ -83,6 +83,21 @@
  
 <hr>
 
+<article class="Chelsea">
+       <header>
+            <h2>Introduction to Chelsea FC </h2>
+       </header>
+       <p> Chelsea Football Club are an English professional football club based in Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is Stamford Bridge </p>
+       <div class = "pic for Chelsea">
+           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
+           <p>The symbol of Chelsea</p>
+       </div>
+
+</article>
+
+
+<hr>
+
 <article class="contact">
      <header>
         <h2>Contact to me</h1>
