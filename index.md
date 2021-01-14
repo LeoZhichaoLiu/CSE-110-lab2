@@ -263,8 +263,5 @@
 </template>
 
 <footer>
-  <p> 
-      Author: Zhichao Liu <br>
-      Nick name: Leo <br>    
-  </p>
+      @Author: Zhichao Liu   
 </footer>
