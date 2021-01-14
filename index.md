@@ -62,7 +62,7 @@
         <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img src="https://lh3.googleusercontent.com/proxy/9MFEkUKvFqH-wfHrUuqMGFTncmQl8VXVdm9UrkSxYwdZkZeMaek-rss5jdsifxHUzkHkWSZjOPOOgLPs2GrA17XVTLwoHJcrzHk2GfKI80A"
+            <img width="300" height="200" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
