@@ -17,7 +17,7 @@
   </ol>
 </nav>
 
-<main role="main">
+<main>
    <h1>Welcome to Zhichao Liu's Page</h1>
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
