@@ -93,9 +93,7 @@
            <p>The symbol of Chelsea</p>
        </div>   
        <div class = "video for Chelsea">
-            <iframe width="420" height="315"
-                   src="https://www.youtube.com/watch?v=BYdnj9delqw"> 
-            </iframe> 
+            <iframe width="826" height="465" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
        </div>
 
 </article>
