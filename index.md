@@ -170,7 +170,7 @@
                   <h2>Japanese Animation</h2>
          </header>
         <p> My favirate Animations are <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a> and <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a> </p>
-         <video controls "600" height="400">
+         <video controls width="600" height="400">
               <source src="./Fullmetal-Alchemist.mp4"
                      type="video/mp4">
                Sorry, your browser doesn't support embedded videos.
