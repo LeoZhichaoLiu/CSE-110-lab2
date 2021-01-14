@@ -83,6 +83,26 @@
             <ul>Xin Han</ul> 
             <ul>Qing Wei</ul>
             <ul>Qubing Huo</ul>
+        <table>
+            <caption>Comparsion to these three talented generals</caption>
+           <colgroup>
+              <col>
+              <col span="2" class="batman">
+              <col span="2" class="flash">
+           </colgroup>
+            <tr>
+               <td> </td>
+               <th scope="col">Xin Han</th>
+               <th scope="col">Qing Wei</th>
+               <th scope="col">Qubing Huo</th>     
+            </tr>
+            <tr>
+              <th scope="row">Features</th>
+              <td>Talented, stratagem</td>
+              <td>Experienced, tranning</td>
+              <td>Youngest, blitz</td>
+            </tr>
+        </table>
     </section>   
    <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
 </article>
