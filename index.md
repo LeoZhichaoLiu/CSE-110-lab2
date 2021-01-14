@@ -94,7 +94,7 @@
        </div>   
        <div class = "video for Chelsea">
            <video controls width="250">
-               <source src="https://www.youtube.com/watch?v=BYdnj9delqw"
+               <source src="https://youtu.be/BYdnj9delqw"
                        type="video/mp4">
                Sorry, your browser doesn't support embedded videos.
           </video>
