@@ -75,7 +75,7 @@
             <ul>Qubing Huo</ul>
     </section>
    <footer>
-       <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a>
+        <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
    </footer>
 </article>
  
