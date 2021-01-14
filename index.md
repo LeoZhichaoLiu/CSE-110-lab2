@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+         <title>User Page</title>
          <!-- <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">  -->
 </head>
 <body>
@@ -87,18 +88,14 @@
        <header>
             <h2>Introduction to Chelsea FC </h2>
        </header>
-         <p> <b>Chelsea Football</b> Club are an English professional football club based in Fulham, London. Founded in <i>1905</i>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <b>six league titles</b> and <b>six European trophies</b>. Their home ground is Stamford Bridge </p>
+       <p> <b>Chelsea Football</b> Club are an English professional football club based in Fulham, London. Founded in <i>1905</i>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <b>six league titles</b> and <b>six European trophies</b>. Their home ground is Stamford Bridge </p>       
        <div class = "pic for Chelsea">
            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
        </div>   
-          
-     
-
+       <iframe width="826" height="465" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </article>
 
-
-<iframe width="826" height="465" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
