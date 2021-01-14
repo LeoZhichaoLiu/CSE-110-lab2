@@ -8,9 +8,11 @@
 <nav class="menu">
   <ol>
     <li><a href="#">Home</a></li>
-    <li><a href="#Information-of-Western-Han-Dynasty">Han Dyasty</a></li>
-    <li><a href="#Introduction-to-Chelsea-FC">Chelsea FC</a></li>
-    <li><a href="#Japanese-Animation">Animation</a></li>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#Han-Dynasty">Han Dynasty</a></li>
+    <li><a href="#Chelsea-FC">Chelsea FC</a></li>
+    <li><a href="#Animation">Animation</a></li>
+    <li><a href="#Contact">Contact</a></li>
   </ol>
 </nav>
 
@@ -19,7 +21,7 @@
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
   
-<article class="Introduction">
+<section class="Introduction">
     <header>
       <h2>Introduction to myself</h2>
     </header>
@@ -50,10 +52,10 @@
              </ol>
     </section>
          
-<article>
+</section>
    
 <hr>
-<article class="Han Dynasty">
+<section class="Han Dynasty">
     <header>
       <h2>Information of Western Han Dynasty</h2>
     </header>
@@ -106,11 +108,11 @@
         </table>
     </section>   
    <p> <a href="https://en.wikipedia.org/wiki/Han_dynasty">The reference</a> </p>
-</article>
+</section>
  
 <hr>
 
-<article class="Chelsea FC">
+<section class="Chelsea FC">
        <header>
             <h2>Introduction to Chelsea FC</h2>
        </header>
@@ -153,11 +155,11 @@
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
         </textarea>
-</article>
+</section>
 
 <hr>
 
-<article class="Animation">
+<section class="Animation">
          <header>
                   <h2>Japanese Animation</h2>
          </header>
@@ -196,11 +198,11 @@
                     <input type="submit" value="Subscribe!">
                </div>
        </form>
-</article>
+</section>
 
 <hr>
 
-<article class="contact">
+<section class="Contact">
      <header>
         <h2>Contact to me</h2>
     </header>
@@ -218,7 +220,7 @@
     <svg viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" stroke="red" fill="grey">
        <circle cx="50" cy="50" r="40" />
     </svg>
-</article>
+</section>
 
 <hr>
 
