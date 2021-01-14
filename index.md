@@ -94,7 +94,7 @@
        </div>   
        <div class = "video for Chelsea">
             <iframe width="420" height="315"
-                   src="https://youtu.be/BYdnj9delqw">
+                   src="https://www.youtube.com/watch?v=BYdnj9delqw"> 
             </iframe> 
            <video controls width="250">
                <source src="https://youtu.be/BYdnj9delqw"
