@@ -96,11 +96,7 @@
             <iframe width="420" height="315"
                    src="https://www.youtube.com/watch?v=BYdnj9delqw"> 
             </iframe> 
-           <video controls width="250">
-               <source src="https://youtu.be/BYdnj9delqw"
-                       type="video/mp4">
-               Sorry, your browser doesn't support embedded videos.
-          </video>
+           
        </div>
 
 </article>
