@@ -94,9 +94,9 @@
        </div>   
           
      
-      
 
 </article>
+
 
 <iframe width="826" height="465" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
