@@ -3,12 +3,12 @@
          <title>User Page</title>
          <link rel="stylesheet" href="admin.css" title="" type="text/css" media="screen" charset="utf-8">
 </head>
+         
 <body>
-  
 <nav class="menu">
   <ol>
-    <li><a href="/Han Dyasty">Han Dyasty</a></li>
-    <li><a href="#">About</a></li>
+    <li><a href="#">Han Dyasty</a></li>
+    <li><a href="#">Chelsea FC</a></li>
     <li><a href="#">Contact</a></li>
   </ol>
 </nav>
@@ -47,7 +47,7 @@
       <h2>Information of Western Han Dyasty</h2>
     </header>
     <section class = "main_overview">
-             <p> he Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
+             <p> the Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <em class="time">(202 BC – 220 AD)</em>, established by the rebel leader <strong class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <em class="time">(221–206 BC)</em> and a warring interregnum known as the Chu–Han contention <em class="time">(206–202 BC)</em>, it was briefly interrupted by the Xin dynasty <em class="time">(9–23 AD)</em> established by the usurping regent <strong class="name">Wang Mang</strong>, and was separated into two periods—the Western Han <em class="time">(202 BC–9 AD)</em> and the Eastern Han <em class="time">(25–220 AD)</em>, before being succeeded by the Three Kingdoms period <em class="time">(220–280 AD)</em>. </p>
     </section>
     <aside>
         <p> <strong> Han Dyasty is one of the flourishing and powerful period in Chinese Ancient History </strong> </p>
@@ -86,7 +86,7 @@
        <header>
             <h2>Introduction to Chelsea FC </h2>
        </header>
-       <p> <b>Chelsea Football</b> Club are an English professional football club based in Fulham, London. Founded in <i>1905</i>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <b>six league titles</b> and <b>six European trophies</b>. Their home ground is Stamford Bridge </p>       
+         <p> <strong>Chelsea Football Club </strong> are an English professional football club based in Fulham, London. Founded in <em>1905</em>, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over <strong>thirty competitive honours</strong>, including <strong>six league titles</strong> and <strong>six European trophies</strong>. Their home ground is Stamford Bridge </p>       
        <div class = "pic for Chelsea">
            <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
@@ -101,8 +101,8 @@
      <header>
         <h2>Contact to me</h2>
     </header>
-    <p> If you have any interest in my project, feel free to send me message through email: <b> z5liu@ucsd.edu </b> </p>
-    <p> In the future, I will use <i>CSS</i> and <i>JavaScript</i> to make the page more beautiful and active! </p>
+    <p> If you have any interest in my project, feel free to send me message through email: <strong> z5liu@ucsd.edu </strong> </p>
+    <p> In the future, I will use <em>CSS</em> and <em>JavaScript</em> to make the page more beautiful and active! </p>
     <p> For example, I may use the following code to change color/size/style of text! </p>
     <pre> 
       body1 {                         body2 {                                  body3 {
@@ -120,6 +120,7 @@
     08540 <br>
     U.S <br>
 </p>
+
 </main>
 </body>
 </html>
