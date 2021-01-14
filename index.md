@@ -42,7 +42,7 @@
         </select>
         <form oninput="expert">
              <input type="range" id="b" name="b" value="50" /> =
-                <output name="result" for="b">60</output>
+             <output name="result" for="b ">50</output>
         </form>
     </section>
     <section class = "interests">
@@ -158,9 +158,9 @@
         <textarea id="truth" name="truth"
             rows="5" cols="33">
             Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
-        </textarea>
+        </textarea> <br/>
      <label for="percentage">Percentage you already read:</label>
-              <progress id="expert degree" max="100" value="70"> 70% </progress>
+              <progress id="degree" max="100" value="70"> 70% </progress>
 </section>
 
 <hr>
