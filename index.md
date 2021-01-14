@@ -109,7 +109,7 @@
                    <option>Spurs</option>
                    <option>Arsenal</option>
                    <option>Liverpool</option>
-                   <option>Leichester Cisty</option>
+                   <option>Leichester City</option>
                    <option>Others</option>
                </optgroup>
           </select>
@@ -117,17 +117,22 @@
           <fieldset>
                <legend>Choose the ranking Chelsea will be: </legend>
                   <input type="radio" id="1" name="rank">
-                        <label for="kraken">1st (Champion!)</label><br/>
+                        <label for="1">1st (Champion!)</label><br/>
                   <input type="radio" id="2" name="rank">
-                       <label for="sasquatch">2nd</label><br/>
+                       <label for="2">2nd</label><br/>
                  <input type="radio" id="3" name="rank">
-                       <label for="mothman">3rd</label>
+                       <label for="3">3rd</label><br/>
                  <input type="radio" id="4" name="rank">
-                       <label for="mothman">4th</label>
+                       <label for="4">4th</label><br/>
                  <input type="radio" id=">4" name="rank">
-                       <label for="mothman">>4 (Oh No!)</label>
+                       <label for=">4">>4 (Oh No!)</label><br/>
          </fieldset>
      </form>  
+     <label for="Truth">Tell you the truth:</label>
+        <textarea id="truth" name="truth"
+            rows="5" cols="33">
+            Chelsea plays like shit this season, and I don't really expect it can enter top 4... :(
+        </textarea>
 </article>
 
 
