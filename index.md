@@ -1,3 +1,7 @@
+<header>
+      <h1>Welcome to Zhichao Liu's Page</h1>
+</header>
+   
 <nav class="menu">
   <ol>
     <li><a href="#">Home</a></li>
@@ -8,8 +12,7 @@
     <li><a href="#Contact">Contact</a></li>
   </ol>
 </nav>
-
-   <h1>Welcome to Zhichao Liu's Page</h1>
+   
    <p> You can find the <span>course website</span> in <a href="https://canvas.ucsd.edu/courses/21783">UCSD 110 Canvas</a> </p>
    <p> You can edit this file by changing the <a href="./_config.yml">configure file</a> </p>
   
@@ -259,3 +262,9 @@
   </tr>
 </template>
 
+<footer>
+  <p> 
+      Author: Zhichao Liu <br>
+      Nick name: Leo <br>    
+  </p>
+</footer>
