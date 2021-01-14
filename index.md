@@ -7,9 +7,10 @@
 <body>
 <nav class="menu">
   <ol>
-    <li><a href="#">Han Dyasty</a></li>
-    <li><a href="#">Chelsea FC</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="#">Home</a></li>
+    <li><a href="#Han Dynasty">Han Dyasty</a></li>
+    <li><a href="#Chelsea FC">Chelsea FC</a></li>
+    <li><a href="#Animation">Animation</a></li>
   </ol>
 </nav>
 
@@ -52,7 +53,7 @@
 <article>
    
 <hr>
-<article class="Han Dyasty">
+<article class="Han Dynasty">
     <header>
       <h2>Information of Western Han Dyasty</h2>
     </header>
