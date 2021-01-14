@@ -62,7 +62,7 @@
         <h3>Founder</h3>
         <p>Bang Liu (Han Gao Zu)</p>
         <figure>
-            <img width="300" height="400" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
+            <img width="200" height="300" src="https://www.holoong.com/uploadculture/big/052104153120143615.jpg"
                  alt="Liu Bang's pic">
              <figcaption><em>Liu Bang</em></figcaption>
         </figure>
@@ -90,7 +90,22 @@
            <p>The symbol of Chelsea</p>
        </div>   
        <iframe width="600" height="400" src="https://www.youtube.com/embed/BYdnj9delqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <label for="Choose Champion">Choose the Team you think is Champion in Premier League: </label>
+            <select id="Choose Champion">
+                <optgroup>
+                   <option>Chelsea</option>
+                   <option>Manchester City</option>
+                   <option>Manchester United</option>
+                   <option>Spurs</option>
+                   <option>Arsenal</option>
+                   <option>Liverpool</option>
+                   <option>Leichester Cisty</option>
+                   <option>Others</option>
+               </optgroup>
+          </select>
 </article>
+
+
 
 <article class="Animation">
          <header>
@@ -128,6 +143,7 @@
                     <input type="submit" value="Subscribe!">
                </div>
        </form>
+       
 
 </article>
 
