@@ -15,7 +15,7 @@
 
 <main id="main-content">
    <h1>Welcome to Zhichao Liu's GitHub Page</h1>
-   <p> You can find the <span>course website</span> in <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>  </p>
+   <p> You can find the <span>course website</span> in </p> <a href=https://canvas.ucsd.edu/courses/21783>UCSD 110 Canvas</a>
    <p> You can edit this file by changing the <a href=./_config.yml>configure file</a> </p>
   
 
@@ -45,7 +45,7 @@
 <hr>
 <article class="Han Dyasty">
     <header>
-      <h2>Information of Western Han Dyasty</h1>
+      <h2>Information of Western Han Dyasty</h2>
     </header>
     <section class = "main_overview">
              <p> he Han dynasty (Chinese: <code>漢朝</code>; pinyin: Hàncháo) was the second imperial dynasty of China <i class="time">(202 BC – 220 AD)</i>, established by the rebel leader <b class="name">Liu Bang</b> and ruled by the <b class="name">House of Liu</b>. Preceded by the short-lived Qin dynasty <i class="time">(221–206 BC)</i> and a warring interregnum known as the Chu–Han contention <i class="time">(206–202 BC)</i>, it was briefly interrupted by the Xin dynasty <i class="time">(9–23 AD)</i> established by the usurping regent <b class="name">Wang Mang</b>, and was separated into two periods—the Western Han <i class="time">(202 BC–9 AD)</i> and the Eastern Han <i class="time">(25–220 AD)</i>, before being succeeded by the Three Kingdoms period <i class="time">(220–280 AD)</i>. </p>
