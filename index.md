@@ -97,6 +97,10 @@
                   <h2>Japanese Animation</h2>
          </header>
         <p> My favirate Animations are <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a> and <a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist">Fullmetal Alchemist</a> </p>
+         <picture>
+             <source srcset="https://hb.imgix.net/efc2778399ad3916e3d0ecdd52d2baf506fe41ae.jpg?auto=compress,format&fit=crop&h=353&w=616&s=725ab9c50a405a056f72d00e76ac04d4" media="(min-width: 600px)">
+             <img src="https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg" alt="" />
+        </picture>
         <figure>
             <figcaption>Here is my favirate music in the animation:</figcaption>
             <audio
@@ -106,12 +110,9 @@
             </audio>
        </figure>
         <canvas width="300" height="100">
-                 <p> That is the BGM from Attack on Titan! </p>
+                Canvas for White.
         </canvas>
-        <picture>
-             <source srcset="https://cdn1.i-scmp.com/sites/default/files/2015/06/15/maxresdefault.jpg" media="(min-width: 600px)">
-        </picture>
-
+        <p> That is the BGM from Attack on Titan! </p>
 
 </article>
 
