@@ -91,6 +91,15 @@
        <div class = "pic for Chelsea">
            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png">
            <p>The symbol of Chelsea</p>
+       </div>   
+       <div class = "video for Chelsea">
+           <video controls width="250">
+               <source src="/media/cc0-videos/flower.webm"
+                       type="video/webm">
+               <source src="/media/cc0-videos/flower.mp4"
+                       type="video/mp4">
+               Sorry, your browser doesn't support embedded videos.
+          </video>
        </div>
 
 </article>
